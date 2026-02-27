@@ -1,0 +1,36 @@
+{
+  "name": "@neruco/vanilla-matchheight",
+  "version": "1.0.0",
+  "description": "Vanilla JS matchHeight utility (byRow / target / remove / data-mh)",
+  "license": "MIT",
+  "author": "neruco",
+  "homepage": "https://github.com/neruco/vanilla-matchheight",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neruco/vanilla-matchheight.git"
+  },
+  "bugs": {
+    "url": "https://github.com/neruco/vanilla-matchheight/issues"
+  },
+  "keywords": [
+    "matchheight",
+    "equal-height",
+    "vanilla",
+    "javascript",
+    "layout",
+    "data-mh",
+    "umd"
+  ],
+  "main": "dist/vanilla-matchheight.umd.js",
+  "unpkg": "dist/vanilla-matchheight.umd.min.js",
+  "jsdelivr": "dist/vanilla-matchheight.umd.min.js",
+  "files": [
+    "dist",
+    "LICENSE",
+    "README.md"
+  ],
+  "sideEffects": false,
+  "scripts": {
+    "test": "node -e \"console.log('no tests yet')\""
+  }
+}
