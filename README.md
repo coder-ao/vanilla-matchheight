@@ -1,16 +1,10 @@
 # @neruco/vanilla-matchheight
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://codepen.io/coder_ao/pen/QwKwRwR)
+
 A lightweight vanilla JavaScript utility for matching element heights.
 
 A modern alternative to `jquery-match-height` with no dependencies.
-
-Supports:
-
-- Row-based height matching (`byRow`)
-- Match height to a specific target
-- Remove applied height
-- `data-mh` / `data-match-height` support
-- UMD (CDN) + CommonJS compatibility
 
 ---
 
@@ -49,9 +43,7 @@ npm install @neruco/vanilla-matchheight
 ```
 
 ```js
-<script>
-  VanillaMatchHeight.applyDataApi();
-</script>
+VanillaMatchHeight.applyDataApi();
 ```
 
 All elements sharing the same data-mh value will have equal height.
