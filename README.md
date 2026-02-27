@@ -29,7 +29,7 @@ npm install @neruco/vanilla-matchheight
 ### CDN (jsDelivr)
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/@neruco/vanilla-matchheight@1.0.1/dist/vanilla-matchheight.umd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@neruco/vanilla-matchheight@1.0.0/dist/vanilla-matchheight.umd.min.js"></script>
 ```
 
 ---
